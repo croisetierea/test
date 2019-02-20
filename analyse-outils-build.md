@@ -62,7 +62,7 @@ En conclusion, Maven et Gradle se ressemble car tout deux utilise un lifecycle. 
 
 ## Sources
 
-[1]: https://maven.apache.org/what-is-maven.html 
+[^1]: https://maven.apache.org/what-is-maven.html 
 [^2]: https://docs.gradle.org/current/userguide/userguide.html
 [^3]: https://docs.gradle.org/current/userguide/introduction_dependency_management.html
 [^4]: https://stackoverflow.com/questions/10209686/maven-dynamic-specification-of-dependencies
